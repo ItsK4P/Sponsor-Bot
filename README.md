@@ -7,7 +7,7 @@ Vous pouvez maintenant lancer le sponsorbot.js
 
 ce script a été développer il y a quelques mois.
 
-Torkem.js#0100
+Kap.#5619
 
 require:
 node ^12.0.0
